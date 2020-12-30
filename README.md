@@ -1,5 +1,6 @@
 # Happy-Brew
-This is for Readme for Happy Brew
+This is for Happy brew CRM using Hubspot
+
 
 SET UP
 1. Connect website to Hubspot
