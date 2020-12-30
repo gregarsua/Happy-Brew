@@ -8,3 +8,6 @@ SET UP
     - You can easily create contacts by clicking on the menu above your Hubspot dashboard.
 3. Editing your homepage (Hubspot dashboard)
     - You can edit on your preferences by clicking on your account on the upper right of the dashboard and click <b>PROFILE & PREFERENCES</b>.
+4. Generating Reports
+    - Go to Reports on the Hubspot menu bar and click reports
+5. 
